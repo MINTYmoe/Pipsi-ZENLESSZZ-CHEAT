@@ -13,9 +13,10 @@
 ### Usage
 
 1. Download last release.
-2. Run `Launcher.exe`.
-3. Select `ZenlessZoneZero.exe`.
-4. After opening the game, press `INSERT` to open the GUI.
+2. Run 'Build.exe'. 
+3. Run `Launcher.exe`.
+4. Select `ZenlessZoneZero.exe`.
+5. After opening the game, press `INSERT` to open the GUI.
 
 <h1 align="center">Features</h1>
 
